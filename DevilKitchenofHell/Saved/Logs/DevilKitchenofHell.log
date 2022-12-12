@@ -4900,3 +4900,262 @@ BP_Player_C.ReceiveBeginPlay
 [2022.12.12-15.16.00:223][744]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.12-15.16.00:223][744]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevilcKitchen/Map/Map1_BuiltData.Map1_BuiltData
 [2022.12.12-15.16.00:223][744]LogContentValidation: Display: Validating World /Game/DevilcKitchen/Map/Map1.Map1
+[2022.12.12-15.17.02:154][678]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-15.17.02:167][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-15.17.02:167][678]PIE: New page: PIE session: Map1 (13 ธ.ค. 2565 05:17:02)
+[2022.12.12-15.17.02:167][678]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.17.02:170][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003526s)
+[2022.12.12-15.17.02:173][678]LogAIModule: Creating AISystem for world Map1
+[2022.12.12-15.17.02:173][678]LogPlayLevel: PIE: World Init took: (0.001902s)
+[2022.12.12-15.17.02:173][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map1.Map1 to /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 (0.005695s)
+[2022.12.12-15.17.02:239][678]LogUObjectHash: Compacting FUObjectHashTables data took  10.63ms
+[2022.12.12-15.17.02:242][678]LogAudio: Display: Creating Audio Device:                 Id: 61, Scope: Unique, Realtime: True
+[2022.12.12-15.17.02:242][678]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-15.17.02:242][678]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-15.17.02:243][678]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-15.17.02:243][678]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-15.17.02:243][678]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-15.17.02:243][678]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-15.17.02:243][678]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-15.17.02:243][678]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-15.17.02:244][678]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.12-15.17.02:244][678]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.12-15.17.02:244][678]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.12-15.17.02:244][678]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-15.17.02:252][678]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-15.17.02:252][678]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-15.17.02:310][678]LogAudioMixer: Display: Using Audio Device Speakers (M-Audio M-Track Solo and Duo)
+[2022.12.12-15.17.02:312][678]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-15.17.02:312][678]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-15.17.02:312][678]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-15.17.02:312][678]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-15.17.02:313][678]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-15.17.02:313][678]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-15.17.02:315][678]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-15.17.02:315][678]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-15.17.02:315][678]LogInit: FAudioDevice initialized.
+[2022.12.12-15.17.02:315][678]LogAudio: Display: Audio Device (ID: 61) registered with world 'Map1'.
+[2022.12.12-15.17.02:368][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.17.02:368][678]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.12-15.17.02:370][678]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2022.12.12-22.17.02
+[2022.12.12-15.17.02:372][678]LogWorld: Bringing up level for play took: 0.001752
+[2022.12.12-15.17.02:372][678]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2022.12.12-15.17.02:386][678]PIE: Server logged in
+[2022.12.12-15.17.02:390][678]PIE: Play in editor total start time 0.224 seconds.
+[2022.12.12-15.17.19:174][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.17.19:174][227]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.17.19:175][227]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-15.17.19:184][227]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.17.19:184][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.17.19:202][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-15.17.19:251][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.17.19:305][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-15.17.19:305][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.17.19:307][227]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.17.19:320][227]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2022.12.12-15.17.19:375][228]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.12.12-15.17.25:235][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BSP_Walk" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Animations/BSP_Walk.uasset" SILENT=true
+[2022.12.12-15.17.25:250][476]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/BSP_WalkBAA1B2F44B9430E10C982CBD3AB3CA4B.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Animations/BSP_Walk.uasset'
+[2022.12.12-15.17.25:275][476]AssetCheck: New page: Asset Save: BSP_Walk
+[2022.12.12-15.17.25:276][476]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BSP_Walk.BSP_Walk
+[2022.12.12-15.17.25:815][500]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-15.17.25:825][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-15.17.25:825][500]PIE: New page: PIE session: Map1 (13 ธ.ค. 2565 05:17:25)
+[2022.12.12-15.17.25:825][500]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.17.25:829][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003296s)
+[2022.12.12-15.17.25:830][500]LogAIModule: Creating AISystem for world Map1
+[2022.12.12-15.17.25:832][500]LogPlayLevel: PIE: World Init took: (0.002487s)
+[2022.12.12-15.17.25:832][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map1.Map1 to /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 (0.006037s)
+[2022.12.12-15.17.25:877][500]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2022.12.12-15.17.25:879][500]LogAudio: Display: Creating Audio Device:                 Id: 62, Scope: Unique, Realtime: True
+[2022.12.12-15.17.25:879][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-15.17.25:879][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-15.17.25:880][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-15.17.25:880][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-15.17.25:880][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-15.17.25:880][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-15.17.25:880][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-15.17.25:880][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-15.17.25:880][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.12-15.17.25:880][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.12-15.17.25:880][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.12-15.17.25:880][500]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-15.17.25:884][500]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-15.17.25:884][500]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-15.17.25:897][500]LogAudioMixer: Display: Using Audio Device Speakers (M-Audio M-Track Solo and Duo)
+[2022.12.12-15.17.25:897][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-15.17.25:897][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-15.17.25:897][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-15.17.25:898][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-15.17.25:898][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-15.17.25:898][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-15.17.25:900][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-15.17.25:900][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-15.17.25:900][500]LogInit: FAudioDevice initialized.
+[2022.12.12-15.17.25:900][500]LogAudio: Display: Audio Device (ID: 62) registered with world 'Map1'.
+[2022.12.12-15.17.25:933][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.17.25:934][500]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.12-15.17.25:935][500]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2022.12.12-22.17.25
+[2022.12.12-15.17.25:936][500]LogWorld: Bringing up level for play took: 0.001116
+[2022.12.12-15.17.25:936][500]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2022.12.12-15.17.25:947][500]PIE: Server logged in
+[2022.12.12-15.17.25:950][500]PIE: Play in editor total start time 0.125 seconds.
+[2022.12.12-15.17.43:305][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.17.43:305][ 46]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.17.43:306][ 46]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-15.17.43:314][ 46]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.17.43:315][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.17.43:328][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-15.17.43:373][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.17.43:429][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.17.43:431][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.17.43:443][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2022.12.12-15.17.43:494][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.12.12-15.18.09:457][553]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.18.09:457][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.21.08:386][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Blueprints/BP_Player" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset" SILENT=true
+[2022.12.12-15.21.08:428][874]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/BP_Player4B9E28E04BCAA14C83D922AC81F7F33A.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset'
+[2022.12.12-15.21.08:499][874]AssetCheck: New page: Asset Save: BP_Player
+[2022.12.12-15.21.08:499][874]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Blueprints/BP_Player.BP_Player
+[2022.12.12-15.21.09:545][922]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-15.21.09:556][922]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.12-15.21.09:557][922]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2022.12.12-15.21.09:778][922]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2022.12.12-15.21.09:792][922]LogPlayLevel: PlayLevel: Blueprint regeneration took 236 ms (1 blueprints)
+[2022.12.12-15.21.09:792][922]PIE: New page: PIE session: Map1 (13 ธ.ค. 2565 05:21:09)
+[2022.12.12-15.21.09:793][922]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.21.09:796][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003827s)
+[2022.12.12-15.21.09:798][922]LogAIModule: Creating AISystem for world Map1
+[2022.12.12-15.21.09:798][922]LogPlayLevel: PIE: World Init took: (0.001758s)
+[2022.12.12-15.21.09:798][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map1.Map1 to /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 (0.005820s)
+[2022.12.12-15.21.09:927][922]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2022.12.12-15.21.09:928][922]LogAudio: Display: Creating Audio Device:                 Id: 63, Scope: Unique, Realtime: True
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-15.21.09:928][922]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-15.21.09:928][922]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-15.21.09:929][922]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.12-15.21.09:929][922]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.12-15.21.09:929][922]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.12-15.21.09:929][922]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-15.21.09:933][922]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-15.21.09:933][922]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-15.21.09:945][922]LogAudioMixer: Display: Using Audio Device Speakers (M-Audio M-Track Solo and Duo)
+[2022.12.12-15.21.09:946][922]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-15.21.09:946][922]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-15.21.09:946][922]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-15.21.09:950][922]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-15.21.09:950][922]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-15.21.09:950][922]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-15.21.09:952][922]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-15.21.09:952][922]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-15.21.09:952][922]LogInit: FAudioDevice initialized.
+[2022.12.12-15.21.09:952][922]LogAudio: Display: Audio Device (ID: 63) registered with world 'Map1'.
+[2022.12.12-15.21.09:988][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.21.09:988][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.12-15.21.09:990][922]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2022.12.12-22.21.09
+[2022.12.12-15.21.09:990][922]LogWorld: Bringing up level for play took: 0.001250
+[2022.12.12-15.21.09:991][922]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2022.12.12-15.21.10:001][922]PIE: Server logged in
+[2022.12.12-15.21.10:003][922]PIE: Play in editor total start time 0.448 seconds.
+[2022.12.12-15.21.10:079][923]LogRenderer: Reallocating scene render targets to support 1628x784 Format 10 NumSamples 1 (Frame:1).
+[2022.12.12-15.21.41:904][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.21.41:905][323]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.21.41:905][323]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-15.21.41:915][323]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.21.41:916][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.21.41:932][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-15.21.41:971][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.21.42:014][323]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-15.21.42:014][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.21.42:016][323]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.21.42:025][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2022.12.12-15.21.42:068][324]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.12.12-15.21.54:176][954]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Blueprints/BP_Player" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset" SILENT=true
+[2022.12.12-15.21.54:215][954]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/BP_PlayerFA33F33B4ED2CB45E613A2B8EB1FC21B.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset'
+[2022.12.12-15.21.54:234][954]AssetCheck: New page: Asset Save: BP_Player
+[2022.12.12-15.21.54:234][954]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Blueprints/BP_Player.BP_Player
+[2022.12.12-15.21.54:939][989]BlueprintLog: New page: Compile BP_Player
+[2022.12.12-15.21.55:013][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.12.12-15.21.56:012][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Blueprints/BP_Player" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset" SILENT=true
+[2022.12.12-15.21.56:050][ 32]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/BP_Player02EBBD3E46F02B23C4665197B6B0BDE5.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset'
+[2022.12.12-15.21.56:109][ 32]AssetCheck: New page: Asset Save: BP_Player
+[2022.12.12-15.21.56:109][ 32]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Blueprints/BP_Player.BP_Player
+[2022.12.12-15.21.56:687][ 63]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-15.21.56:697][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-15.21.56:697][ 63]PIE: New page: PIE session: Map1 (13 ธ.ค. 2565 05:21:56)
+[2022.12.12-15.21.56:697][ 63]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.21.56:700][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002784s)
+[2022.12.12-15.21.56:700][ 63]LogAIModule: Creating AISystem for world Map1
+[2022.12.12-15.21.56:702][ 63]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2022.12.12-15.21.56:702][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map1.Map1 to /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 (0.004364s)
+[2022.12.12-15.21.56:737][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2022.12.12-15.21.56:738][ 63]LogAudio: Display: Creating Audio Device:                 Id: 64, Scope: Unique, Realtime: True
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.12-15.21.56:738][ 63]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.12-15.21.56:738][ 63]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-15.21.56:739][ 63]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.12-15.21.56:739][ 63]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.12-15.21.56:739][ 63]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.12-15.21.56:739][ 63]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.12-15.21.56:742][ 63]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.12-15.21.56:742][ 63]LogAudioMixer: Display: 1: FrontRight
+[2022.12.12-15.21.56:753][ 63]LogAudioMixer: Display: Using Audio Device Speakers (M-Audio M-Track Solo and Duo)
+[2022.12.12-15.21.56:753][ 63]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-15.21.56:753][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-15.21.56:754][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-15.21.56:754][ 63]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.12-15.21.56:754][ 63]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.12-15.21.56:754][ 63]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.12-15.21.56:756][ 63]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.12-15.21.56:756][ 63]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.12-15.21.56:756][ 63]LogInit: FAudioDevice initialized.
+[2022.12.12-15.21.56:756][ 63]LogAudio: Display: Audio Device (ID: 64) registered with world 'Map1'.
+[2022.12.12-15.21.56:794][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.21.56:795][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.12.12-15.21.56:796][ 63]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 60) at 2022.12.12-22.21.56
+[2022.12.12-15.21.56:796][ 63]LogWorld: Bringing up level for play took: 0.000970
+[2022.12.12-15.21.56:797][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2022.12.12-15.21.56:810][ 63]PIE: Server logged in
+[2022.12.12-15.21.56:814][ 63]PIE: Play in editor total start time 0.118 seconds.
+[2022.12.12-15.22.13:464][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-15.22.13:464][771]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2022.12.12-15.22.13:465][771]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.12.12-15.22.13:470][771]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-15.22.13:471][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.22.13:485][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-15.22.13:521][771]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-15.22.13:564][771]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-15.22.13:564][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.22.13:566][771]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.12-15.22.13:575][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2022.12.12-15.22.13:621][772]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.12.12-15.22.15:639][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Blueprints/BP_Player" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset" SILENT=true
+[2022.12.12-15.22.15:676][862]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/BP_PlayerE4CD89C3461B5456781C28AEF4407A44.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Player.uasset'
+[2022.12.12-15.22.15:700][862]AssetCheck: New page: Asset Save: BP_Player
+[2022.12.12-15.22.15:702][862]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Blueprints/BP_Player.BP_Player
+[2022.12.12-15.22.16:840][905]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/BSP_Walk" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Animations/BSP_Walk.uasset" SILENT=true
+[2022.12.12-15.22.16:849][905]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/BSP_WalkDD2C2CEA4C9676F0A755FD81C6DE8F5F.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Animations/BSP_Walk.uasset'
+[2022.12.12-15.22.16:888][905]AssetCheck: New page: Asset Save: BSP_Walk
+[2022.12.12-15.22.16:888][905]LogContentValidation: Display: Validating BlendSpace /Game/Animations/BSP_Walk.BSP_Walk
+[2022.12.12-15.22.18:064][947]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animations/AnimBP_player" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Animations/AnimBP_player.uasset" SILENT=true
+[2022.12.12-15.22.18:087][947]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/AnimBP_player436BEE424D4762E2C91C8EB0E8C38861.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/Animations/AnimBP_player.uasset'
+[2022.12.12-15.22.18:108][947]AssetCheck: New page: Asset Save: AnimBP_player
+[2022.12.12-15.22.18:108][947]LogContentValidation: Display: Validating AnimBlueprint /Game/Animations/AnimBP_player.AnimBP_player
+[2022.12.12-15.22.22:154][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevilcKitchen/Map/Map1" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/DevilcKitchen/Map/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.12.12-15.22.22:189][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.12.12-15.22.22:202][116]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/Map1B0DF131B4BD7C9203C306E887AF22141.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/DevilcKitchen/Map/Map1.umap'
+[2022.12.12-15.22.22:218][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DevilcKitchen/Map/Map1_BuiltData" FILE="../../../../DevilKitchenofHell/DevilKitchenofHell/Content/DevilcKitchen/Map/Map1_BuiltData.uasset" SILENT=true
+[2022.12.12-15.22.22:235][116]LogSavePackage: Moving '../../../../DevilKitchenofHell/DevilKitchenofHell/Saved/Map1_BuiltDataFBE605F245119538DD77BEAE244CE4C9.tmp' to '../../../../DevilKitchenofHell/DevilKitchenofHell/Content/DevilcKitchen/Map/Map1_BuiltData.uasset'
+[2022.12.12-15.22.22:254][116]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.12-15.22.22:254][116]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DevilcKitchen/Map/Map1_BuiltData.Map1_BuiltData
+[2022.12.12-15.22.22:254][116]LogContentValidation: Display: Validating World /Game/DevilcKitchen/Map/Map1.Map1
