@@ -1,0 +1,1604 @@
+﻿Log file open, 05/22/23 11:16:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DevilKitchenofHell
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.230100
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11300H @ 3.10GHz, GPU: NVIDIA GeForce RTX 3060 Laptop GPU
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=Lnwmon007 -epicuserid=2f35a1b088264c88ae28c5266d5a31d8 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Unreal/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.05.22-04.16.14:107][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:107][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:132][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.22-04.16.14:132][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.22-04.16.14:133][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.22-04.16.14:134][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.22-04.16.14:134][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.05.22-04.16.14:134][  0]LogHAL: Display: Platform has ~ 16 GB [16841785344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.22-04.16.14:134][  0]LogInit: Going up to parent DeviceProfile []
+[2023.05.22-04.16.14:134][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.22-04.16.14:134][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Scalability.ini]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Engine.ini]
+[2023.05.22-04.16.14:135][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Config/Windows/Editor.ini]
+[2023.05.22-04.16.14:135][  0]LogInit: Computer: DESKTOP-6SGCII8
+[2023.05.22-04.16.14:135][  0]LogInit: User: monza
+[2023.05.22-04.16.14:136][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.05.22-04.16.14:136][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.22-04.16.14:136][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2023.05.22-04.16.14:136][  0]LogMemory: Platform Memory Stats for Windows
+[2023.05.22-04.16.14:136][  0]LogMemory: Process Physical Memory: 145.14 MB used, 145.14 MB peak
+[2023.05.22-04.16.14:136][  0]LogMemory: Process Virtual Memory: 116.61 MB used, 116.61 MB peak
+[2023.05.22-04.16.14:136][  0]LogMemory: Physical Memory: 11689.19 MB used,  4372.39 MB free, 16061.58 MB total
+[2023.05.22-04.16.14:136][  0]LogMemory: Virtual Memory: 134214104.00 MB used,  3622.41 MB free, 134217728.00 MB total
+[2023.05.22-04.16.14:141][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.05.22-04.16.14:187][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.05.22-04.16.14:188][  0]LogInit: Using OS detected language (en-US).
+[2023.05.22-04.16.14:188][  0]LogInit: Using OS detected locale (en-US).
+[2023.05.22-04.16.14:190][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.05.22-04.16.14:394][  0]LogInit: Setting process to per monitor DPI aware
+[2023.05.22-04.16.14:403][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.05.22-04.16.14:420][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.05.22-04.16.14:420][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.05.22-04.16.14:543][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.05.22-04.16.14:546][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.22-04.16.14:546][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.05.22-04.16.14:546][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.05.22-04.16.14:546][  0]LogD3D11RHI: D3D11 adapters:
+[2023.05.22-04.16.14:662][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Laptop GPU' (Feature Level 11_0)
+[2023.05.22-04.16.14:662][  0]LogD3D11RHI:       6009/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2023.05.22-04.16.14:693][  0]LogD3D11RHI:    1. 'Intel(R) Iris(R) Xe Graphics' (Feature Level 11_0)
+[2023.05.22-04.16.14:693][  0]LogD3D11RHI:       128/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:       0/0/8030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     DeviceId    : 2520
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     SubSysId    : 16e21043
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     DedicatedVideoMemory : 6300893184 bytes
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     SharedSystemMemory : 8420892672 bytes
+[2023.05.22-04.16.14:695][  0]LogD3D11RHI:     AdapterLuid : 0 73032
+[2023.05.22-04.16.14:704][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.05.22-04.16.14:704][  0]LogD3D11RHI:     GPU DeviceId: 0x2520 (for the marketing name, search the web for "GPU Device Id")
+[2023.05.22-04.16.14:704][  0]LogWindows: EnumDisplayDevices:
+[2023.05.22-04.16.14:704][  0]LogWindows:    0. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.22-04.16.14:704][  0]LogWindows:    1. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.22-04.16.14:704][  0]LogWindows:    2. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.22-04.16.14:704][  0]LogWindows:    3. 'Intel(R) Iris(R) Xe Graphics' (P:0 D:0)
+[2023.05.22-04.16.14:704][  0]LogWindows:    4. 'NVIDIA GeForce RTX 3060 Laptop GPU' (P:1 D:1)
+[2023.05.22-04.16.14:705][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:   Driver Version: 527.56 (internal:31.0.15.2756, unified:527.56)
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:      Driver Date: 12-5-2022
+[2023.05.22-04.16.14:705][  0]LogRHI: Texture pool is 4206 MB (70% of 6009 MB)
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3060 Laptop GPU
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     VendorId    : 10de
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     DeviceId    : 2520
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     SubSysId    : 16e21043
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     Revision    : 00a1
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     DedicatedVideoMemory : 6300893184 bytes
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     SharedSystemMemory : 8420892672 bytes
+[2023.05.22-04.16.14:705][  0]LogD3D11RHI:     AdapterLuid : 0 73032
+[2023.05.22-04.16.14:772][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.05.22-04.16.14:772][  0]LogD3D11RHI: Async texture creation enabled
+[2023.05.22-04.16.14:772][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.05.22-04.16.14:774][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2023.05.22-04.16.14:801][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2023.05.22-04.16.14:824][  0]LogRHI: GeForceNow SDK initialized: 1
+[2023.05.22-04.16.15:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.05.22-04.16.15:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.05.22-04.16.15:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.05.22-04.16.15:146][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.05.22-04.16.15:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.05.22-04.16.15:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.05.22-04.16.15:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.05.22-04.16.15:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.05.22-04.16.15:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.05.22-04.16.15:178][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.05.22-04.16.15:182][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.05.22-04.16.15:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.05.22-04.16.15:203][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.05.22-04.16.15:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.05.22-04.16.15:215][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.05.22-04.16.15:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.05.22-04.16.15:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.05.22-04.16.15:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.05.22-04.16.15:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.05.22-04.16.15:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.05.22-04.16.15:242][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.05.22-04.16.15:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.05.22-04.16.15:250][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.05.22-04.16.15:250][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.05.22-04.16.15:256][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.05.22-04.16.15:282][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.05.22-04.16.15:308][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.05.22-04.16.15:308][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Intermediate/Shaders/WorkingDirectory/18852/).
+[2023.05.22-04.16.15:308][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/monza/AppData/Local/Temp/UnrealShaderWorkingDir/032C48694519934AF0BE8E92A31C059E/'.
+[2023.05.22-04.16.15:308][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.05.22-04.16.15:308][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.05.22-04.16.15:308][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.05.22-04.16.15:988][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.05.22-04.16.16:052][  0]LogDerivedDataCache: Loaded boot cache 0.06s 94MB C:/Users/monza/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.22-04.16.16:052][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/monza/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.05.22-04.16.16:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.05.22-04.16.16:052][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.05.22-04.16.16:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.22-04.16.16:052][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.05.22-04.16.16:069][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.05.22-04.16.16:069][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.05.22-04.16.16:069][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.05.22-04.16.16:075][  0]LogDerivedDataCache: Speed tests for C:/Users/monza/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.05.22-04.16.16:075][  0]LogDerivedDataCache: Display: Performance to C:/Users/monza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1334.42MBs, RandomWriteSpeed=183.75MBs. Assigned SpeedClass 'Local'
+[2023.05.22-04.16.16:076][  0]LogDerivedDataCache: Using Local data cache path C:/Users/monza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.05.22-04.16.16:076][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.05.22-04.16.16:076][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.05.22-04.16.16:124][  0]LogSlate: Using FreeType 2.10.0
+[2023.05.22-04.16.16:125][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.05.22-04.16.16:150][  0]LogAssetRegistry: FAssetRegistry took 0.0029 seconds to start up
+[2023.05.22-04.16.16:405][  0]LogInit: Selected Device Profile: [Windows]
+[2023.05.22-04.16.16:405][  0]LogInit: Active device profile: [0000023A9A1C5100][0000023A99FB0F40 49] Windows
+[2023.05.22-04.16.16:405][  0]LogInit: Profiles: [0000023A9A1C5100][0000023A99FB0F40 49] Windows, [0000023A9A17E500][0000023A998F90C0 49] WindowsNoEditor, [0000023A9A1C6200][0000023A9765D240 49] WindowsServer, [0000023A9A17D700][0000023A976613C0 49] WindowsClient, [0000023A9A1C5700][0000023A97725540 49] IOS, [0000023A9A17E700][0000023A977296C0 49] iPadAir, [0000023A9A1C7C00][0000023A9772D840 49] iPadAir2, [0000023A9A0FD400][0000023A9773BB00 49] IPadPro, [0000023A9A0FD500][0000023A97731B40 49] iPadAir3, [0000023A9A17F800][0000023A9773E140 49] iPadAir4, [0000023A9A0FE300][0000023A99B042C0 49] iPadMini2, [0000023A9A17EF00][0000023A99B08440 49] iPadMini3, [0000023A9A0FEF00][0000023A99B105C0 49] iPadMini4, [0000023A9A17DC00][0000023A99B14740 49] iPadMini5, [0000023A9A121000][0000023A99B1CA00 49] iPhone6, [0000023A9A121100][0000023A99B18A40 49] iPodTouch6, [0000023A9A1C7900][0000023A99B24D00 49] iPhone7, [0000023A9A1C6900][0000023A99B20D40 49] iPodTouch7, [0000023A9A0FD000][0000023A99FBCE80 49] iPhone5S, [0000023A9A1C6F00][0000023A99B9EFC0 49] iPhone6Plus, [0000023A9A0FF600][0000023A99BA9100 49] iPhone6S, [0000023A9A1C4C00][0000023A99BAD280 49] iPhone6SPlus, [0000023A9A1C5D00][0000023A97659400 49] iPhone7Plus, [0000023A9A120800][0000023A99D9F580 49] iPhoneSE, [0000023A9A1C4400][0000023A976B5700 49] iPhone8, [0000023A9A120900][0000023A976F9880 49] iPhone8Plus, [0000023A9A122E00][0000023A999EFA00 49] iPhoneX, [0000023A9A0FDD00][0000023A99A99B80 49] iPhoneXS, [0000023A9A122700][0000023A99ABA180 49] iPhoneXSMax, [0000023A9A0FDC00][0000023A99AEC300 49] iPhoneXR, [0000023A9A122800][0000023A9B368480 49] iPhone11, [0000023A9A0FCF00][0000023A9B386600 49] iPhone11Pro, [0000023A9A120B00][0000023A9B3A6780 49] iPhone11ProMax, [0000023A9A0FCD00][0000023A9B3AA900 49] iPhoneSE2, [0000023A9A120E00][0000023A9B3AEA80 49] iPhone12Mini, [0000023A9A1C7800][0000023A9B3B2C00 49] iPhone12, [0000023A9A123000][0000023A9B3B6D80 49] iPhone12Pro, [0000023A9A1C7700][0000023A9B402F00 49] iPhone12ProMax, [0000023A9A121E00][0000023A99FB5040 49] iPadPro105, [0000023A9A1C5300][0000023A9B407180 49] iPadPro129, [0000023A9A123E00][0000023A9B40B2C0 49] iPadPro97, [0000023A9A1C5C00][0000023A9B413440 49] iPadPro2_129, [0000023A9A122000][0000023A9B42B5C0 49] iPad5, [0000023A9A1C6300][0000023A9B537740 49] iPad6, [0000023A9A123B00][0000023A9B54B8C0 49] iPad7, [0000023A9A1C5E00][0000023A9B54FA40 49] iPad8, [0000023A9A120A00][0000023A9B553BC0 49] iPadPro11, [0000023A9A1C6600][0000023A9B5561C0 49] iPadPro2_11, [0000023A9A120F00][0000023A9B55A340 49] iPadPro3_129, [0000023A9A1C6800][0000023A9B6364C0 49] iPadPro4_129, [0000023A9A123C00][0000023A9B6BA640 49] AppleTV, [0000023A9A1C5A00][0000023A9B6BE7C0 49] AppleTV4K, [0000023A9A122600][0000023A9B6C2940 49] TVOS, [0000023A9A1C6100][0000023A9B6C6AC0 49] Mac, [0000023A9A122F00][0000023A9B6CAC40 49] MacClient, [0000023A9A1C6A00][0000023A9B724DC0 49] MacNoEditor, [0000023A9A122C00][0000023A9B72EF40 49] MacServer, [0000023A9A1C7000][0000023A99B290C0 49] Linux, [0000023A9A120400][0000023A9B40F200 49] LinuxAArch64, [0000023A9A1C4700][0000023A99B2D340 49] LinuxNoEditor, [0000023A9A123700][0000023A99B31480 49] LinuxAArch64NoEditor, [0000023A9A1C7B00][0000023A9B7215C0 49] LinuxClient, [0000023A9A123400][0000023A976BD740 49] LinuxAArch64Client, [0000023A9A1C7E00][0000023A976C18C0 49] LinuxServer, [0000023A9A120700][0000023A976C5A40 49] LinuxAArch64Server, [0000023A9A1C5F00][0000023A976C9BC0 49] Android, [0000023A9A122A00][0000023A976CC1C0 49] Android_Low, [0000023A9A1C6D00][0000023A976F0340 49] Android_Mid, [0000023A9A121F00][0000023A976F44C0 49] Android_High, [0000023A9A1C6B00][0000023A99B3E640 49] Android_Default, [0000023A9A120100][0000023A9B30A7C0 49] Android_Adreno4xx, [0000023A9A1C4500][0000023A9B30E940 49] Android_Adreno5xx_Low, [0000023A9A121400][0000023A99B42AC0 49] Android_Adreno5xx, [0000023A9A1C7400][0000023A99B46C40 49] Android_Adreno6xx, [0000023A9A122300][0000023A99B4ADC0 49] Android_Adreno6xx_Vulkan, [0000023A9A1C7D00][0000023A99B4EF40 49] Android_Mali_T6xx, [0000023A9A120200][0000023A99AF10C0 49] Android_Mali_T7xx, [0000023A9A1C7600][0000023A99AB1240 49] Android_Mali_T8xx, [0000023A9A123200][0000023A9B71D380 49] Android_Mali_G71, [0000023A9A0FF100][0000023A999EB4C0 49] Android_Mali_G72, [0000023A9A17ED00][0000023A976B9600 49] Android_Mali_G72_Vulkan, [0000023A9A0FEB00][0000023A99D7D740 49] Android_Mali_G76, [0000023A9A17C500][0000023A99AFB8C0 49] Android_Mali_G76_Vulkan, [0000023A9A0FCC00][0000023A99AF7A40 49] Android_Mali_G77, [0000023A9A17C600][0000023A99FB9BC0 49] Android_Mali_G77_Vulkan, [0000023A9A0FE400][0000023A99B521C0 49] Android_Mali_G78, [0000023A9A17CD00][0000023A99B56340 49] Android_Mali_G78_Vulkan, [0000023A9A0FFD00][0000023A99B5A4C0 49] Android_Mali_G710, [0000023A9A17E900][0000023A99B5E640 49] Android_Mali_G710_Vulkan, [0000023A9A0FEA00][0000023A99B627C0 49] Android_Vulkan_SM5, [0000023A9A17D800][0000023A99B66940 49] Android_PowerVR_G6xxx, [0000023A9A0FC500][0000023A99B6AAC0 49] Android_PowerVR_GT7xxx, [0000023A9A17C200][0000023A99B6EC40 49] Android_PowerVR_GE8xxx, [0000023A9A0FFB00][0000023A99B72DC0 49] Android_PowerVR_GM9xxx, [0000023A9A17DF00][0000023A99B76F40 49] Android_PowerVR_GM9xxx_Vulkan, [0000023A9A0FDF00][0000023A99B7B0C0 49] Android_TegraK1, [0000023A9A17CA00][0000023A99B7F240 49] Android_Unknown_Vulkan, [0000023A9A0FF900][0000023A99B833C0 49] Lumin, [0000023A9A17D100][0000023A99B87540 49] Lumin_Desktop, [0000023A9A0FE000][0000023A99B0D680 49] HoloLens, 
+[2023.05.22-04.16.16:538][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.05.22-04.16.16:538][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.05.22-04.16.16:538][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.05.22-04.16.16:538][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.05.22-04.16.16:538][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.05.22-04.16.16:561][  0]LogNetVersion: DevilKitchenofHell 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2501725686)
+[2023.05.22-04.16.17:005][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.22-04.16.17:121][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.05.22-04.16.17:129][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.05.22-04.16.17:129][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.05.22-04.16.17:129][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.05.22-04.16.17:402][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 3E86E6F94763DDD241A67B9618EB00FB | Instance: DD63B20248576DF6D4B585B75A1BBC8D (DESKTOP-6SGCII8-18852).
+[2023.05.22-04.16.17:437][  0]LogPython: Using Python 3.7.7
+[2023.05.22-04.16.18:018][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.05.22-04.16.18:023][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.05.22-04.16.18:219][  0]SourceControl: Source control is disabled
+[2023.05.22-04.16.18:219][  0]SourceControl: Source control is disabled
+[2023.05.22-04.16.18:222][  0]SourceControl: Source control is disabled
+[2023.05.22-04.16.18:224][  0]SourceControl: Source control is disabled
+[2023.05.22-04.16.18:231][  0]SourceControl: Source control is disabled
+[2023.05.22-04.16.18:241][  0]LogUProjectInfo: Found projects:
+[2023.05.22-04.16.18:346][  0]LogOpenImageDenoise: OIDN starting up
+[2023.05.22-04.16.18:396][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.22-04.16.18:416][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.22-04.16.18:416][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.22-04.16.18:549][  0]LogCollectionManager: Loaded 0 collections in 0.001390 seconds
+[2023.05.22-04.16.18:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Collections/' took 0.00s
+[2023.05.22-04.16.18:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/Developers/monza/Collections/' took 0.00s
+[2023.05.22-04.16.18:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/Collections/' took 0.00s
+[2023.05.22-04.16.18:580][  0]LogOcInput: OculusInput pre-init called
+[2023.05.22-04.16.18:805][  0]LogEngine: Initializing Engine...
+[2023.05.22-04.16.18:807][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.05.22-04.16.18:807][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.05.22-04.16.18:807][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.05.22-04.16.18:808][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.05.22-04.16.18:976][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.22-04.16.18:987][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.05.22-04.16.18:994][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.05.22-04.16.18:999][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.05.22-04.16.19:000][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.05.22-04.16.19:001][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.05.22-04.16.19:001][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.16.19:001][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.16.19:001][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.16.19:001][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.16.19:001][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.16.19:001][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.16.19:018][  0]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.16.19:040][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.16.19:045][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.16.19:047][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.16.19:047][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.16.19:048][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.16.19:048][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.16.19:048][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.16.19:050][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.16.19:050][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.16.19:050][  0]LogInit: FAudioDevice initialized.
+[2023.05.22-04.16.19:050][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.05.22-04.16.19:050][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.22-04.16.19:120][  0]LogDerivedDataCache: Saved boot cache 0.07s 94MB C:/Users/monza/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.05.22-04.16.19:120][  0]LogInit: Texture streaming: Enabled
+[2023.05.22-04.16.19:136][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.05.22-04.16.19:141][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.05.22-04.16.19:141][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.05.22-04.16.19:142][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.05.22-04.16.19:178][  0]LogInit: Transaction tracking system initialized
+[2023.05.22-04.16.19:198][  0]BlueprintLog: New page: Editor Load
+[2023.05.22-04.16.19:256][  0]LocalizationService: Localization service is disabled
+[2023.05.22-04.16.19:278][  0]TimingProfiler: Initialize
+[2023.05.22-04.16.19:278][  0]TimingProfiler: OnSessionChanged
+[2023.05.22-04.16.19:278][  0]LoadingProfiler: Initialize
+[2023.05.22-04.16.19:278][  0]LoadingProfiler: OnSessionChanged
+[2023.05.22-04.16.19:278][  0]NetworkingProfiler: Initialize
+[2023.05.22-04.16.19:278][  0]NetworkingProfiler: OnSessionChanged
+[2023.05.22-04.16.19:278][  0]MemoryProfiler: Initialize
+[2023.05.22-04.16.19:278][  0]MemoryProfiler: OnSessionChanged
+[2023.05.22-04.16.19:412][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.05.22-04.16.19:412][  0]LogCook: Display: Mobile HDR setting 1
+[2023.05.22-04.16.19:580][  0]LogFileCache: Scanning file cache for directory 'C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/' took 0.02s
+[2023.05.22-04.16.19:750][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.22-04.16.19:752][  0]SourceControl: Source control is disabled
+[2023.05.22-04.16.19:753][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.770
+[2023.05.22-04.16.19:753][  0]Cmd: MAP LOAD FILE="../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/DevilcKitchen/Map/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.22-04.16.19:753][  0]LightingResults: New page: Lighting Build
+[2023.05.22-04.16.19:754][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.16.19:754][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.16.19:754][  0]MapCheck: New page: Map Check
+[2023.05.22-04.16.19:754][  0]LightingResults: New page: Lighting Build
+[2023.05.22-04.16.19:758][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-04.16.19:761][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.05.22-04.16.19:791][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2023.05.22-04.16.19:792][  0]LogAIModule: Creating AISystem for world MainMenu
+[2023.05.22-04.16.19:793][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.22-04.16.19:803][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.05.22-04.16.19:803][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.22-04.16.19:804][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.416ms to complete.
+[2023.05.22-04.16.19:804][  0]LogFileHelpers: Loading map 'MainMenu' took 0.051
+[2023.05.22-04.16.19:806][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.824
+[2023.05.22-04.16.19:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.16.19:932][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3822 classes and 928 folders.
+[2023.05.22-04.16.19:937][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.05.22-04.16.19:939][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.05.22-04.16.19:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.22-04.16.19:939][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:939][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.05.22-04.16.19:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.05.22-04.16.19:940][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.05.22-04.16.19:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.05.22-04.16.19:940][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:940][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.05.22-04.16.19:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.05.22-04.16.19:940][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.05.22-04.16.19:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.05.22-04.16.19:940][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:940][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.05.22-04.16.19:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.05.22-04.16.19:941][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.22-04.16.19:941][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:941][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.22-04.16.19:941][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:941][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.05.22-04.16.19:941][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.05.22-04.16.19:941][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.05.22-04.16.19:941][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:941][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.05.22-04.16.19:941][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:941][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.05.22-04.16.19:941][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.05.22-04.16.19:942][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.05.22-04.16.19:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.05.22-04.16.19:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.05.22-04.16.19:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.05.22-04.16.19:942][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.05.22-04.16.19:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:942][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.05.22-04.16.19:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:942][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.05.22-04.16.19:942][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2023.05.22-04.16.19:943][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.05.22-04.16.19:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.05.22-04.16.19:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.05.22-04.16.19:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2023.05.22-04.16.19:943][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.05.22-04.16.19:943][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.05.22-04.16.19:944][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:944][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.05.22-04.16.19:944][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.05.22-04.16.19:945][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.05.22-04.16.19:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.05.22-04.16.19:945][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:945][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.05.22-04.16.19:945][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2023.05.22-04.16.19:945][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.05.22-04.16.19:945][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:945][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.05.22-04.16.19:945][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:945][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.05.22-04.16.19:945][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2023.05.22-04.16.19:946][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.05.22-04.16.19:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.05.22-04.16.19:946][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:946][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.05.22-04.16.19:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.05.22-04.16.19:946][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.22-04.16.19:946][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:946][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.22-04.16.19:946][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:946][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.05.22-04.16.19:946][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.05.22-04.16.19:947][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.05.22-04.16.19:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.05.22-04.16.19:947][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:947][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.05.22-04.16.19:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.05.22-04.16.19:947][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.05.22-04.16.19:947][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:947][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.05.22-04.16.19:947][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:947][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.05.22-04.16.19:947][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.05.22-04.16.19:948][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.05.22-04.16.19:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.22-04.16.19:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.05.22-04.16.19:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2023.05.22-04.16.19:948][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.05.22-04.16.19:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.05.22-04.16.19:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.05.22-04.16.19:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2023.05.22-04.16.19:949][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.05.22-04.16.19:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.05.22-04.16.19:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.05.22-04.16.19:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2023.05.22-04.16.19:950][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.22-04.16.19:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:950][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.22-04.16.19:950][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:950][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.05.22-04.16.19:950][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2023.05.22-04.16.19:951][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.22-04.16.19:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.22-04.16.19:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.05.22-04.16.19:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2023.05.22-04.16.19:951][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.05.22-04.16.19:951][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.05.22-04.16.19:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.05.22-04.16.19:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.05.22-04.16.19:952][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.05.22-04.16.19:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.05.22-04.16.19:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.05.22-04.16.19:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2023.05.22-04.16.19:952][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.05.22-04.16.19:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.05.22-04.16.19:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.05.22-04.16.19:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.05.22-04.16.19:953][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.05.22-04.16.19:953][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:953][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.05.22-04.16.19:953][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:953][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.05.22-04.16.19:953][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2023.05.22-04.16.19:954][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.05.22-04.16.19:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.05.22-04.16.19:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.05.22-04.16.19:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2023.05.22-04.16.19:955][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.05.22-04.16.19:955][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.05.22-04.16.19:955][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.05.22-04.16.19:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.05.22-04.16.19:955][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Unreal/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.05.22-04.16.19:955][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2023.05.22-04.16.20:001][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2023.05.22-04.16.20:006][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2023.05.22-04.16.20:071][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.05.22-04.16.20:072][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.05.22-04.16.20:073][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.05.22-04.16.20:140][  0]LogRenderer: Reallocating scene render targets to support 908x404 Format 10 NumSamples 1 (Frame:1).
+[2023.05.22-04.16.20:518][  0]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.22-04.16.20:573][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.05.22-04.16.20:573][  0]LogLoad: (Engine Initialization) Total time: 7.59 seconds
+[2023.05.22-04.16.20:573][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.05.22-04.16.20:645][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.05.22-04.16.20:660][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/' took 0.06s
+[2023.05.22-04.16.20:665][  1]LogAssetRegistry: Asset discovery search completed in 4.5174 seconds
+[2023.05.22-04.16.20:670][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2023.05.22-04.16.25:056][ 93]LogSlate: Window 'Message Log' being destroyed
+[2023.05.22-04.16.25:060][ 93]LogSlate: Window 'Message Log' being destroyed
+[2023.05.22-04.16.27:245][211]LogBlueprint: Warning: [AssetLog] C:\Users\monza\Documents\GitHub\DevilKitchenofHell\DevilKitchenofHell\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2023.05.22-04.16.27:245][211]LogBlueprint: Warning: [AssetLog] C:\Users\monza\Documents\GitHub\DevilKitchenofHell\DevilKitchenofHell\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2023.05.22-04.16.27:752][211]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.05.22-04.16.27:773][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Blueprints/BP_Boss.BP_Boss
+[2023.05.22-04.16.27:937][211]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2023.05.22-04.16.28:759][211]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.05.22-04.16.28:932][212]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.05.22-04.16.34:073][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.05.22-04.16.34:195][512]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.TX_Cube_01a_CUBE', its maximum texture size has been explicitly set to 512.
+[2023.05.22-04.16.34:394][512]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DevilcKitchen/Map/Map2.Map2
+[2023.05.22-04.16.34:394][512]Cmd: MAP LOAD FILE="../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/DevilcKitchen/Map/Map2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.05.22-04.16.34:394][512]LightingResults: New page: Lighting Build
+[2023.05.22-04.16.34:394][512]LoadErrors: New page: Loading map: Map2.umap
+[2023.05.22-04.16.34:397][512]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.16.34:397][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.16.34:397][512]MapCheck: New page: Map Check
+[2023.05.22-04.16.34:397][512]LightingResults: New page: Lighting Build
+[2023.05.22-04.16.34:420][512]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-04.16.34:425][512]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.05.22-04.16.34:426][512]LogAudio: Display: Audio Device (ID: 1) registered with world 'Map2'.
+[2023.05.22-04.16.34:533][512]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.05.22-04.16.34:533][512]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.16.34:556][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.05.22-04.16.34:573][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.05.22-04.16.34:573][512]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.193ms to complete.
+[2023.05.22-04.16.34:574][512]LogFileHelpers: Loading map 'Map2' took 0.180
+[2023.05.22-04.16.56:750][797]BlueprintLog: New page: Compile BP_Boss
+[2023.05.22-04.16.56:808][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.05.22-04.16.56:942][797]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.05.22-04.16.57:370][817]LogSavePackage: Moving '../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/BP_Boss9B39D46A4FCC02E6C632B6B319C7FC80.tmp' to '../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_Boss.uasset'
+[2023.05.22-04.16.57:388][817]AssetCheck: New page: Asset Save: BP_Boss
+[2023.05.22-04.16.57:388][817]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Blueprints/BP_Boss.BP_Boss
+[2023.05.22-04.17.06:348][353]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.17.06:356][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.17.06:356][353]PIE: New page: PIE session: Map2 (May 22, 2023, 6:17:06 PM)
+[2023.05.22-04.17.06:357][353]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.05.22-04.17.06:359][353]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.05.22-04.17.06:359][353]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.17.06:367][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008469s)
+[2023.05.22-04.17.06:369][353]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.17.06:369][353]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2023.05.22-04.17.06:369][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.010231s)
+[2023.05.22-04.17.06:389][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.05.22-04.17.06:391][353]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.17.06:391][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.17.06:391][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.17.06:392][353]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.17.06:392][353]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.17.06:392][353]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.17.06:392][353]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.17.06:396][353]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.17.06:407][353]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.17.06:407][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.17.06:407][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.17.06:407][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.17.06:407][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.17.06:407][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.17.06:407][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.17.06:408][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.17.06:408][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.17.06:408][353]LogInit: FAudioDevice initialized.
+[2023.05.22-04.17.06:408][353]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map2'.
+[2023.05.22-04.17.06:431][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.17.06:436][353]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.17.06:440][353]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.17.06
+[2023.05.22-04.17.06:441][353]LogWorld: Bringing up level for play took: 0.003904
+[2023.05.22-04.17.06:441][353]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.05.22-04.17.06:448][353]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.05.22-04.17.06:455][353]PIE: Server logged in
+[2023.05.22-04.17.06:459][353]PIE: Play in editor total start time 0.104 seconds.
+[2023.05.22-04.17.06:796][355]LogRenderer: Reallocating scene render targets to support 1528x792 Format 10 NumSamples 1 (Frame:1).
+[2023.05.22-04.17.07:017][366]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.17.22:115][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.17.22:115][269]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.17.22:116][269]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.17.22:121][269]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.17.22:121][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.17.22:130][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.17.22:136][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.17.22:159][269]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-04.17.22:165][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.17.22:166][269]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.17.22:190][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2023.05.22-04.17.22:210][270]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.05.22-04.17.28:931][592]LogSlate: Window 'BP_Boss' being destroyed
+[2023.05.22-04.17.28:939][592]LogSlate: Window 'BP_Boss' being destroyed
+[2023.05.22-04.17.28:946][592]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.17.28:946][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.17.43:398][449]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Boss/CombatAnim/Slash.Slash
+[2023.05.22-04.17.43:411][449]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2023.05.22-04.17.43:416][449]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2023.05.22-04.17.43:491][449]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.05.22-04.17.43:570][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.17.43:574][449]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2023.05.22-04.17.57:592][172]LogSavePackage: Moving '../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/Slash75F6AEC245A4F744151E3D8C6D873CCD.tmp' to '../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/Animations/Boss/CombatAnim/Slash.uasset'
+[2023.05.22-04.17.57:608][172]AssetCheck: New page: Asset Save: Slash
+[2023.05.22-04.17.57:608][172]LogContentValidation: Display: Validating AnimMontage /Game/Animations/Boss/CombatAnim/Slash.Slash
+[2023.05.22-04.18.00:332][334]LogSlate: Window 'Slash' being destroyed
+[2023.05.22-04.18.00:337][334]LogSlate: Window 'Slash' being destroyed
+[2023.05.22-04.18.00:337][334]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.00:338][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.00:402][334]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.00:402][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.00:419][334]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.00:419][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.01:314][385]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Boss/CombatAnim/Jump_Attack_Montage.Jump_Attack_Montage
+[2023.05.22-04.18.01:318][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.18.14:802][829]LogSlate: Window 'Jump_Attack_Montage' being destroyed
+[2023.05.22-04.18.14:807][829]LogSlate: Window 'Jump_Attack_Montage' being destroyed
+[2023.05.22-04.18.14:808][829]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.14:808][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.14:871][829]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.14:871][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.15:479][865]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.18.15:487][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.18.15:488][865]PIE: New page: PIE session: Map2 (May 22, 2023, 6:18:15 PM)
+[2023.05.22-04.18.15:488][865]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.15:502][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013997s)
+[2023.05.22-04.18.15:503][865]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.18.15:503][865]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2023.05.22-04.18.15:503][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.015356s)
+[2023.05.22-04.18.15:604][865]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.05.22-04.18.15:608][865]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.05.22-04.18.15:608][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.18.15:609][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.18.15:609][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.18.15:609][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.18.15:609][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.18.15:609][865]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.18.15:613][865]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.18.15:624][865]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.18.15:624][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.18.15:624][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.18.15:624][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.18.15:625][865]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.18.15:625][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.18.15:625][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.18.15:626][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.18.15:626][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.18.15:626][865]LogInit: FAudioDevice initialized.
+[2023.05.22-04.18.15:626][865]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map2'.
+[2023.05.22-04.18.15:649][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.15:649][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.18.15:653][865]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.18.15
+[2023.05.22-04.18.15:655][865]LogWorld: Bringing up level for play took: 0.004925
+[2023.05.22-04.18.15:655][865]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.05.22-04.18.15:660][865]PIE: Server logged in
+[2023.05.22-04.18.15:661][865]PIE: Play in editor total start time 0.175 seconds.
+[2023.05.22-04.18.15:699][866]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.18.26:804][530]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.26:804][530]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.26:805][530]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.18.26:810][530]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.26:811][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.26:820][530]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.18.26:826][530]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.26:848][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.18.26:849][530]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.18.26:899][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.05.22-04.18.26:922][531]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.05.22-04.18.28:279][611]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.18.28:287][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.18.28:287][611]PIE: New page: PIE session: Map2 (May 22, 2023, 6:18:28 PM)
+[2023.05.22-04.18.28:287][611]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.28:295][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007735s)
+[2023.05.22-04.18.28:296][611]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.18.28:296][611]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2023.05.22-04.18.28:296][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.009273s)
+[2023.05.22-04.18.28:312][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.05.22-04.18.28:313][611]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.18.28:313][611]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.18.28:313][611]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.18.28:314][611]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.18.28:314][611]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.18.28:314][611]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.18.28:314][611]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.18.28:317][611]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.18.28:327][611]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.18.28:328][611]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.18.28:328][611]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.18.28:328][611]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.18.28:328][611]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.18.28:328][611]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.18.28:328][611]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.18.28:329][611]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.18.28:329][611]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.18.28:329][611]LogInit: FAudioDevice initialized.
+[2023.05.22-04.18.28:329][611]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map2'.
+[2023.05.22-04.18.28:351][611]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.28:351][611]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.18.28:357][611]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.18.28
+[2023.05.22-04.18.28:357][611]LogWorld: Bringing up level for play took: 0.005592
+[2023.05.22-04.18.28:358][611]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.05.22-04.18.28:363][611]PIE: Server logged in
+[2023.05.22-04.18.28:364][611]PIE: Play in editor total start time 0.078 seconds.
+[2023.05.22-04.18.28:396][612]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.18.38:105][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.38:105][192]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.38:106][192]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.18.38:112][192]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.38:113][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.38:127][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.18.38:131][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.38:147][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.18.38:148][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.18.38:154][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.05.22-04.18.38:180][193]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.05.22-04.18.38:934][237]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.18.38:940][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.18.38:941][237]PIE: New page: PIE session: Map2 (May 22, 2023, 6:18:38 PM)
+[2023.05.22-04.18.38:941][237]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.38:948][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007159s)
+[2023.05.22-04.18.38:949][237]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.18.38:949][237]LogPlayLevel: PIE: World Init took: (0.001358s)
+[2023.05.22-04.18.38:949][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.008734s)
+[2023.05.22-04.18.38:966][237]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.05.22-04.18.38:966][237]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.18.38:967][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.18.38:967][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.18.38:967][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.18.38:967][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.18.38:967][237]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.18.38:971][237]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.18.38:983][237]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.18.38:984][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.18.38:984][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.18.38:984][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.18.38:985][237]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.18.38:985][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.18.38:985][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.18.38:986][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.18.38:986][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.18.38:986][237]LogInit: FAudioDevice initialized.
+[2023.05.22-04.18.38:986][237]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map2'.
+[2023.05.22-04.18.39:000][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.39:000][237]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.18.39:004][237]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.18.39
+[2023.05.22-04.18.39:005][237]LogWorld: Bringing up level for play took: 0.004856
+[2023.05.22-04.18.39:005][237]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.05.22-04.18.39:010][237]PIE: Server logged in
+[2023.05.22-04.18.39:010][237]PIE: Play in editor total start time 0.07 seconds.
+[2023.05.22-04.18.39:609][272]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.18.47:545][746]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.47:545][746]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.47:546][746]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.18.47:552][746]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.18.47:553][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.47:560][746]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.18.47:564][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.18.47:580][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.18.47:581][746]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.18.47:588][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.05.22-04.18.47:613][747]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.05.22-04.18.48:457][797]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.18.48:464][797]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.18.48:464][797]PIE: New page: PIE session: Map2 (May 22, 2023, 6:18:48 PM)
+[2023.05.22-04.18.48:464][797]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.18.48:472][797]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007306s)
+[2023.05.22-04.18.48:473][797]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.18.48:473][797]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2023.05.22-04.18.48:473][797]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.009149s)
+[2023.05.22-04.18.48:489][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.05.22-04.18.48:490][797]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.18.48:490][797]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.18.48:490][797]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.18.48:490][797]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.18.48:490][797]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.18.48:491][797]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.18.48:491][797]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.18.48:494][797]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.18.48:504][797]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.18.48:505][797]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.18.48:505][797]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.18.48:505][797]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.18.48:505][797]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.18.48:505][797]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.18.48:505][797]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.18.48:506][797]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.18.48:506][797]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.18.48:506][797]LogInit: FAudioDevice initialized.
+[2023.05.22-04.18.48:507][797]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map2'.
+[2023.05.22-04.18.48:526][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.18.48:526][797]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.18.48:531][797]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.18.48
+[2023.05.22-04.18.48:532][797]LogWorld: Bringing up level for play took: 0.004795
+[2023.05.22-04.18.48:532][797]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.05.22-04.18.48:537][797]PIE: Server logged in
+[2023.05.22-04.18.48:538][797]PIE: Play in editor total start time 0.075 seconds.
+[2023.05.22-04.18.49:439][850]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.19.01:845][590]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.19.01:845][590]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.19.01:846][590]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.19.01:851][590]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.19.01:852][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.19.01:864][590]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.19.01:868][590]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.19.01:885][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.19.01:886][590]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.19.01:891][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.05.22-04.19.01:911][591]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.05.22-04.19.51:625][856]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Boss/CombatAnim/Jump_Attack_Montage.Jump_Attack_Montage
+[2023.05.22-04.19.51:629][856]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.20.03:172][449]Cmd: TRANSACTION UNDO
+[2023.05.22-04.20.03:172][449]LogEditorTransaction: Undo Edit Rate Scale
+[2023.05.22-04.20.03:229][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.20.23:757][661]LogSlate: Window 'Jump_Attack_Montage' being destroyed
+[2023.05.22-04.20.23:762][661]LogSlate: Window 'Jump_Attack_Montage' being destroyed
+[2023.05.22-04.20.23:762][661]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.20.23:763][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.20.23:826][661]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.20.23:826][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.20.24:357][692]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.20.24:364][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.20.24:364][692]PIE: New page: PIE session: Map2 (May 22, 2023, 6:20:24 PM)
+[2023.05.22-04.20.24:364][692]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.20.24:372][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007949s)
+[2023.05.22-04.20.24:373][692]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.20.24:374][692]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2023.05.22-04.20.24:374][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.009474s)
+[2023.05.22-04.20.24:396][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2023.05.22-04.20.24:403][692]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.20.24:403][692]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.20.24:403][692]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.20.24:403][692]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.20.24:403][692]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.20.24:403][692]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.20.24:407][692]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.20.24:418][692]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.20.24:418][692]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.20.24:418][692]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.20.24:418][692]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.20.24:419][692]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.20.24:419][692]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.20.24:419][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.20.24:420][692]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.20.24:420][692]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.20.24:420][692]LogInit: FAudioDevice initialized.
+[2023.05.22-04.20.24:420][692]LogAudio: Display: Audio Device (ID: 7) registered with world 'Map2'.
+[2023.05.22-04.20.24:434][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.20.24:434][692]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.20.24:439][692]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.20.24
+[2023.05.22-04.20.24:440][692]LogWorld: Bringing up level for play took: 0.004605
+[2023.05.22-04.20.24:440][692]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.05.22-04.20.24:445][692]PIE: Server logged in
+[2023.05.22-04.20.24:446][692]PIE: Play in editor total start time 0.083 seconds.
+[2023.05.22-04.20.24:477][693]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.20.49:805][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.20.49:805][938]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.20.49:805][938]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.20.49:812][938]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.20.49:813][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.20.49:827][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.20.49:835][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.20.49:859][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-04.20.49:861][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.20.49:862][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.20.49:870][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2023.05.22-04.20.50:114][939]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.05.22-04.20.52:261][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.20.52:268][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.20.52:268][990]PIE: New page: PIE session: Map2 (May 22, 2023, 6:20:52 PM)
+[2023.05.22-04.20.52:268][990]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.20.52:276][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007829s)
+[2023.05.22-04.20.52:277][990]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.20.52:278][990]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2023.05.22-04.20.52:278][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.009648s)
+[2023.05.22-04.20.52:295][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.05.22-04.20.52:296][990]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.20.52:296][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.20.52:297][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.20.52:297][990]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.20.52:297][990]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.20.52:297][990]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.20.52:297][990]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.20.52:301][990]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.20.52:312][990]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.20.52:312][990]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.20.52:312][990]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.20.52:312][990]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.20.52:313][990]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.20.52:313][990]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.20.52:313][990]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.20.52:314][990]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.20.52:314][990]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.20.52:314][990]LogInit: FAudioDevice initialized.
+[2023.05.22-04.20.52:314][990]LogAudio: Display: Audio Device (ID: 8) registered with world 'Map2'.
+[2023.05.22-04.20.52:337][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.20.52:337][990]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.20.52:342][990]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.20.52
+[2023.05.22-04.20.52:343][990]LogWorld: Bringing up level for play took: 0.005061
+[2023.05.22-04.20.52:343][990]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.05.22-04.20.52:348][990]PIE: Server logged in
+[2023.05.22-04.20.52:348][990]PIE: Play in editor total start time 0.082 seconds.
+[2023.05.22-04.20.52:680][  9]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.21.10:036][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.21.10:036][ 47]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.21.10:037][ 47]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.21.10:043][ 47]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.21.10:044][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.10:056][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.21.10:060][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.10:076][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.21.10:078][ 47]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.21.10:084][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.05.22-04.21.10:111][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.05.22-04.21.11:055][104]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.21.11:062][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.21.11:062][104]PIE: New page: PIE session: Map2 (May 22, 2023, 6:21:11 PM)
+[2023.05.22-04.21.11:062][104]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.21.11:069][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007419s)
+[2023.05.22-04.21.11:070][104]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.21.11:071][104]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2023.05.22-04.21.11:071][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.008745s)
+[2023.05.22-04.21.11:087][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.22-04.21.11:088][104]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.21.11:088][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.21.11:088][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.21.11:089][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.21.11:089][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.21.11:089][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.21.11:089][104]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.21.11:092][104]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.21.11:103][104]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.21.11:104][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.21.11:104][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.21.11:104][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.21.11:105][104]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.21.11:105][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.21.11:105][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.21.11:106][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.21.11:106][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.21.11:106][104]LogInit: FAudioDevice initialized.
+[2023.05.22-04.21.11:106][104]LogAudio: Display: Audio Device (ID: 9) registered with world 'Map2'.
+[2023.05.22-04.21.11:124][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.21.11:124][104]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.21.11:129][104]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.21.11
+[2023.05.22-04.21.11:130][104]LogWorld: Bringing up level for play took: 0.005347
+[2023.05.22-04.21.11:130][104]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.05.22-04.21.11:135][104]PIE: Server logged in
+[2023.05.22-04.21.11:136][104]PIE: Play in editor total start time 0.075 seconds.
+[2023.05.22-04.21.11:413][120]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.21.17:365][474]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.21.17:365][474]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.21.17:365][474]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.21.17:371][474]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.21.17:372][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.17:380][474]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.21.17:384][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.17:402][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.21.17:403][474]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.21.17:409][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.05.22-04.21.17:432][475]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.05.22-04.21.18:786][553]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Boss/CombatAnim/Jump_Attack_Montage.Jump_Attack_Montage
+[2023.05.22-04.21.18:790][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.21.20:010][606]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Boss/CombatAnim/Slash.Slash
+[2023.05.22-04.21.45:232][ 55]LogSavePackage: Moving '../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/SlashD6042DD5443E8A8D57C2B499186569C9.tmp' to '../../../../../Users/monza/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/Animations/Boss/CombatAnim/Slash.uasset'
+[2023.05.22-04.21.45:249][ 55]AssetCheck: New page: Asset Save: Slash
+[2023.05.22-04.21.45:249][ 55]LogContentValidation: Display: Validating AnimMontage /Game/Animations/Boss/CombatAnim/Slash.Slash
+[2023.05.22-04.21.45:690][ 81]LogSlate: Window 'Slash' being destroyed
+[2023.05.22-04.21.45:694][ 81]LogSlate: Window 'Slash' being destroyed
+[2023.05.22-04.21.45:694][ 81]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.21.45:694][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.45:756][ 81]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.21.45:756][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.45:764][ 81]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.21.45:765][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.21.53:557][168]LogHttp: Warning: 0000023B33D68100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DAB37C7-41A1-65C6-1ADF-ECA029B06491%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f387848e4ba11f316012a8b4862ac43f%7C2f35a1b088264c88ae28c5266d5a31d8%7C69f5c06e-0cd0-4fb8-9f45-d8d70a2bfedb&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x23af774feb0 [can pipeline])
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.39.249) port 443 (#0))
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: 0000023B33D68100: libcurl info message cache 7 (Closing connection 0)
+[2023.05.22-04.21.53:558][168]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0DAB37C7-41A1-65C6-1ADF-ECA029B06491%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=f387848e4ba11f316012a8b4862ac43f%7C2f35a1b088264c88ae28c5266d5a31d8%7C69f5c06e-0cd0-4fb8-9f45-d8d70a2bfedb&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.05.22-04.21.55:924][211]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-04.21.55:932][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-04.21.55:932][211]PIE: New page: PIE session: Map2 (May 22, 2023, 6:21:55 PM)
+[2023.05.22-04.21.55:932][211]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.21.55:940][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007190s)
+[2023.05.22-04.21.55:940][211]LogAIModule: Creating AISystem for world Map2
+[2023.05.22-04.21.55:941][211]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2023.05.22-04.21.55:941][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map2.Map2 to /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 (0.008656s)
+[2023.05.22-04.21.55:965][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.05.22-04.21.55:972][211]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-04.21.55:972][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-04.21.55:972][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-04.21.55:972][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-04.21.55:973][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-04.21.55:973][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-04.21.55:973][211]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-04.21.55:976][211]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 2: FrontCenter
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 3: LowFrequency
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 4: BackLeft
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 5: BackRight
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 6: SideLeft
+[2023.05.22-04.21.55:977][211]LogAudioMixer: Display: 7: SideRight
+[2023.05.22-04.21.55:988][211]LogAudioMixer: Display: Using Audio Device Speakers (2- Logitech G733 Gaming Headset)
+[2023.05.22-04.21.55:988][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-04.21.55:988][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-04.21.55:988][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-04.21.55:989][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-04.21.55:989][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-04.21.55:989][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2023.05.22-04.21.55:990][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-04.21.55:990][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-04.21.55:990][211]LogInit: FAudioDevice initialized.
+[2023.05.22-04.21.55:990][211]LogAudio: Display: Audio Device (ID: 10) registered with world 'Map2'.
+[2023.05.22-04.21.56:008][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.21.56:008][211]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-04.21.56:013][211]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map2.Map2 up for play (max tick rate 60) at 2023.05.22-11.21.56
+[2023.05.22-04.21.56:014][211]LogWorld: Bringing up level for play took: 0.005330
+[2023.05.22-04.21.56:015][211]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2023.05.22-04.21.56:020][211]PIE: Server logged in
+[2023.05.22-04.21.56:020][211]PIE: Play in editor total start time 0.089 seconds.
+[2023.05.22-04.21.56:552][242]LogAnimMontage: Warning: Playing a Montage (Mutant_Roaring_Montage) for the wrong Skeleton (Boss_Skeleton) instead of (MiniBoss_Skeleton).
+[2023.05.22-04.22.07:725][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-04.22.07:725][910]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map2
+[2023.05.22-04.22.07:726][910]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-04.22.07:732][910]LogWorld: UWorld::CleanupWorld for Map2, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-04.22.07:733][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.22.07:740][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-04.22.07:743][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-04.22.07:760][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.05.22-04.22.07:760][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.22.07:761][910]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-04.22.07:768][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.05.22-04.22.07:795][911]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.05.22-04.22.12:557][ 98]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Animations/Boss/CombatAnim/Jump_Attack_Montage.Jump_Attack_Montage
+[2023.05.22-04.22.12:561][ 98]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.22.45:029][751]Cmd: TRANSACTION UNDO
+[2023.05.22-04.22.45:029][751]LogEditorTransaction: Undo Edit Blend Time
+[2023.05.22-04.22.45:091][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.22.45:097][751]Cmd: TRANSACTION UNDO
+[2023.05.22-04.22.45:097][751]LogEditorTransaction: Undo Edit End Time
+[2023.05.22-04.22.45:159][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.05.22-04.25.30:901][771]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.05.22-04.25.30:965][771]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.065 s
+[2023.05.22-04.25.30:965][771]LogOutputDevice: Error: === Handled ensure: ===
+[2023.05.22-04.25.30:965][771]LogOutputDevice: Error: 
+[2023.05.22-04.25.30:965][771]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMath.cpp] [Line: 108]
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: FMath::FMod(X=0.000000, Y=0.000000) : Y is zero, this is invalid and would result in NaN!
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: Stack: 
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff854303e08 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff853ab5a79 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8006157d5 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800615b13 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8006e1f37 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800713743 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8007124c1 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8557855f1 UE4Editor-AnimGraph.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8006ba89a UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8006ba13d UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800687be7 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800a55752 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800a672c5 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800a664a5 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800a53526 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800a6c0a8 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff84fc36eb3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800ada424 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800a7a21b UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff84fc4e4fd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800929277 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff80095ef74 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8017a410e UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8017ad2e4 UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff853a72398 UE4Editor-Core.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff853a727ce UE4Editor-Core.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff853a840bd UE4Editor-Core.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8017c93be UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8017cfaba UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800eb349f UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff800ebe2fc UE4Editor-Engine.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007fffee0b4f98 UE4Editor-Persona.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff84fb95449 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff84ffb0618 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8508b2ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff7c21c87a0 UE4Editor.exe!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff7c21e0fcc UE4Editor.exe!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff7c21e10ba UE4Editor.exe!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff7c21e40dd UE4Editor.exe!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff7c21f5984 UE4Editor.exe!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff7c21f853a UE4Editor.exe!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8a9da7614 KERNEL32.DLL!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: [Callstack] 0x00007ff8aa6226a1 ntdll.dll!UnknownFunction []
+[2023.05.22-04.25.30:966][771]LogOutputDevice: Error: 
