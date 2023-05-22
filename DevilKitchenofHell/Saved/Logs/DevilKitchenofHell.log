@@ -1362,3 +1362,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.05.22-14.38.44:510][435]LogSlate: Window 'BP_MiniBoss' being destroyed
 [2023.05.22-14.38.44:518][435]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
 [2023.05.22-14.38.44:518][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-14.40.20:545][529]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2023.05.22-14.40.20:558][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.05.22-14.40.20:558][529]PIE: New page: PIE session: Map1 (23 พ.ค. 2566 04:40:20)
+[2023.05.22-14.40.20:558][529]LogPlayLevel: Creating play world package: /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2023.05.22-14.40.20:593][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034719s)
+[2023.05.22-14.40.20:594][529]LogAIModule: Creating AISystem for world Map1
+[2023.05.22-14.40.20:594][529]LogPlayLevel: PIE: World Init took: (0.001329s)
+[2023.05.22-14.40.20:594][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DevilcKitchen/Map/Map1.Map1 to /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 (0.036251s)
+[2023.05.22-14.40.20:633][529]LogUObjectHash: Compacting FUObjectHashTables data took   6.01ms
+[2023.05.22-14.40.20:642][529]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.05.22-14.40.20:642][529]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.05.22-14.40.20:642][529]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.05.22-14.40.20:643][529]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.05.22-14.40.20:643][529]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.05.22-14.40.20:643][529]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.05.22-14.40.20:643][529]LogAudioMixer: Display: Initializing audio mixer.
+[2023.05.22-14.40.20:645][529]LogAudioMixer: Display: 0: FrontLeft
+[2023.05.22-14.40.20:645][529]LogAudioMixer: Display: 1: FrontRight
+[2023.05.22-14.40.20:656][529]LogAudioMixer: Display: Using Audio Device Speakers (2- M-Audio M-Track Solo and Duo)
+[2023.05.22-14.40.20:656][529]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.05.22-14.40.20:656][529]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.05.22-14.40.20:656][529]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.05.22-14.40.20:657][529]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.05.22-14.40.20:657][529]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.05.22-14.40.20:657][529]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.05.22-14.40.20:658][529]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.05.22-14.40.20:658][529]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.05.22-14.40.20:658][529]LogInit: FAudioDevice initialized.
+[2023.05.22-14.40.20:658][529]LogAudio: Display: Audio Device (ID: 6) registered with world 'Map1'.
+[2023.05.22-14.40.20:692][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-14.40.20:692][529]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.05.22-14.40.20:720][529]LogWorld: Bringing World /Game/DevilcKitchen/Map/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2023.05.22-21.40.20
+[2023.05.22-14.40.20:725][529]LogWorld: Bringing up level for play took: 0.031556
+[2023.05.22-14.40.20:726][529]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2023.05.22-14.40.20:732][529]PIE: Server logged in
+[2023.05.22-14.40.20:735][529]PIE: Play in editor total start time 0.178 seconds.
+[2023.05.22-14.40.59:560][861]LogBlueprintUserMessages: [Map1_C_0] saveeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+[2023.05.22-14.42.03:744][865]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.22-14.42.03:744][865]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.05.22-14.42.05:236][929]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.22-14.42.05:236][929]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.22-14.43.06:298][959]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.05.22-14.43.06:298][959]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2023.05.22-14.43.07:742][ 11]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.05.22-14.43.07:742][ 11]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.05.22-14.44.18:358][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.05.22-14.44.18:358][750]LogWorld: BeginTearingDown for /Game/DevilcKitchen/Map/UEDPIE_0_Map1
+[2023.05.22-14.44.18:359][750]LogSlate: Window 'DevilKitchenofHell Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.05.22-14.44.18:424][750]LogWorld: UWorld::CleanupWorld for Map1, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-14.44.18:427][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-14.44.18:442][750]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.05.22-14.44.18:514][750]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.22-14.44.18:547][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-14.44.18:549][750]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.05.22-14.44.18:562][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2023.05.22-14.44.18:623][751]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2023.05.22-14.44.22:094][907]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Blueprints/BP_MiniBoss.BP_MiniBoss
+[2023.05.22-14.44.38:217][537]BlueprintLog: New page: Compile BP_MiniBoss
+[2023.05.22-14.44.38:437][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.05.22-14.44.39:350][566]LogSavePackage: Moving '../../../../../../Users/jedsa/OneDrive/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Saved/BP_MiniBoss57AC99154BEBB77ED7889B875F4BFD49.tmp' to '../../../../../../Users/jedsa/OneDrive/Documents/GitHub/DevilKitchenofHell/DevilKitchenofHell/Content/Blueprint/Blueprints/BP_MiniBoss.uasset'
+[2023.05.22-14.44.39:372][566]AssetCheck: New page: Asset Save: BP_MiniBoss
+[2023.05.22-14.44.39:372][566]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/Blueprints/BP_MiniBoss.BP_MiniBoss
+[2023.05.22-14.44.41:008][634]LogSlate: Window 'BP_MiniBoss' being destroyed
+[2023.05.22-14.44.41:018][634]LogSlate: Window 'BP_MiniBoss' being destroyed
+[2023.05.22-14.44.41:029][634]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.05.22-14.44.41:029][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
